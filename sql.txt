@@ -1,0 +1,19 @@
+jak dostat z tabulky employees zaznamy
+
+SELECT (*) FROM employees WHERE id = 1 - jeden záznam s id 1
+
+SELECT (company, id) FROM companies WHERE city = 'Brno'
+
+
+INSERT INTO js4companies (city, company)
+VALUES ('Brno', 'ABC')
+
+UPDATE table_name
+SET column1 = value1, column2 = value2, ...
+WHERE condition;
+
+DELETE FROM table_name (!!!!!!!!!! - vymaže všechny záznamy z tabulky)
+DELETE FROM table_name WHERE id = 1717
+
+callbacks => Promises => async/await
+

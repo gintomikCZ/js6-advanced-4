@@ -1,0 +1,6 @@
+{"employees":[{"id":1,"first":"Karel","last":"Houska","position":"driver"},{"id":2,"first":"Jenda","last":"Benda","position":"developer"}],
+"companies":[
+  {"id":1,"company":"XY","city":"Brno"},
+  {"id":2,"company":"AB","city":"Praha"},
+  {"id":4,"company":"Lala","city":"Chvalnov"}
+  ]}
